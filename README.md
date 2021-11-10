@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tomekand11
-- 👀 I’m the best
+- 👀 I’m the best developer in the world
 
 <!---
 tomekand11/tomekand11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
